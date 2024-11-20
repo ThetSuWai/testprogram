@@ -8,4 +8,7 @@ int main()
 
     int result2=sub(50,10);
     cout<<"Subtraction is "<<result2<<endl;
+
+    int result3=mul(5,3);
+    cout<<"Multiplication is "<<result3<<endl;
 }
